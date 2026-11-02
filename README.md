@@ -1,6 +1,6 @@
 # \# DSC180A-Methodology-3
 
-# Haoshuo Bi
+# Amelia Wong
 
 # 
 
