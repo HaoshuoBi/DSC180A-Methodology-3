@@ -2,5 +2,5 @@
 
 # Haoshuo Bi
 
-# 
+# hbi@ucsd.edu
 
